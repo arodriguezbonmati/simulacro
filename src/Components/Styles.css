@@ -1,0 +1,64 @@
+.header {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+}
+
+.definiciones {
+    margin: 20px;
+    text-align: start;
+    border: 1px solid #D3D3D3;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.sinonimos {
+    margin: 20px;
+    text-align: start;
+    border: 1px solid #D3D3D3;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.antonimos {
+    margin: 20px;
+    text-align: start;
+    border: 1px solid #D3D3D3;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.definicion {
+    margin-bottom: 10px;
+}
+
+.sinonimo {
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.sinonimo:hover{
+    background-color: #E8E8E8;
+}
+
+.antonimo:hover{
+    background-color: #E8E8E8;
+}
+
+.antonimo {
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+}
+
+.busqueda {
+    font-size: x-large;
+}
